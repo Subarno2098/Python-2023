@@ -1,1 +1,1 @@
-# Python-2023
+# Repository for Learning Python
